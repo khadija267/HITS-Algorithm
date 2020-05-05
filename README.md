@@ -1,2 +1,2 @@
-# information-retrieval-collage-course-
-implementing HITS algorithm
+# HITS Algoritm
+implementing HITS algorithm for webpages ranking
